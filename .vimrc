@@ -39,3 +39,4 @@ set secure
 
 set nocompatible              " be iMproved, required
 set visualbell
+set t_vb=
